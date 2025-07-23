@@ -12,8 +12,8 @@ Brief description of what your project does and why it exists.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd project-name
+git clone https://github.com/vipergts24/TrendIdentification.git
+cd TrendIdentification
 ```
 
 2. Create and activate virtual environment:
